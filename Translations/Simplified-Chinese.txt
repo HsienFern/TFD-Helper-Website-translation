@@ -1,79 +1,79 @@
 #: templates/macros.html:5 templates/userpage/user.html:208
 #: templates/userpage/weapons.html:53
 msgid "None"
-msgstr ""
+msgstr "沒有"
 
 #: templates/macros.html:14
 msgid "On 🐈"
-msgstr ""
+msgstr "开"
 
 #: templates/macros.html:18
 msgid "On Cata"
-msgstr ""
+msgstr "用催化剂"
 
 #: templates/userpage/arche.html:13 templates/userpage/user.html:226
 msgid "Arche Tuning Board"
-msgstr ""
+msgstr "Arche调整板"
 
 #: templates/userpage/components.html:19 templates/userpage/user.html:173
 #: templates/userpage/weapons.html:18
 msgid "Level"
-msgstr ""
+msgstr "等级"
 
 #: templates/userpage/components.html:26 templates/userpage/user.html:118
 #: templates/userpage/user.html:193 templates/userpage/weapons.html:38
 msgid "Cores"
-msgstr ""
+msgstr "核心"
 
 #: templates/userpage/reactor.html:15 templates/userpage/user.html:34
 #: templates/userpage/user.html:136 templates/userpage/userprofile.html:16
 msgid "Lvl"
-msgstr ""
+msgstr "等級"
 
 #: templates/userpage/reactor.html:32 templates/userpage/user.html:153
 #: templates/userpage/user.html:183 templates/userpage/weapons.html:28
 msgid "Stats"
-msgstr ""
+msgstr "属性"
 
 #: templates/userpage/user.html:46 templates/userpage/userprofile.html:28
 msgid "Mastery"
-msgstr ""
+msgstr "精通"
 
 #: templates/userpage/user.html:47 templates/userpage/userprofile.html:29
 msgid "XP"
-msgstr ""
+msgstr "经验"
 
 #: templates/userpage/user.html:57
 msgid "Is a content creator"
-msgstr ""
+msgstr "这是内容创作者"
 
 #: templates/userpage/user.html:75 templates/userpage/user.html:175
 #: templates/userpage/weapons.html:20
 msgid "Module Capacity"
-msgstr ""
+msgstr "容量模組"
 
 #: templates/userpage/user.html:174 templates/userpage/user.html:214
 #: templates/userpage/weapons.html:19 templates/userpage/weapons.html:59
 msgid "Slot"
-msgstr ""
+msgstr "槽"
 
 #: templates/userpage/user.html:174 templates/userpage/weapons.html:19
 msgid "Enhance Unique Ability Level"
-msgstr ""
+msgstr "提高獨特能力等級"
 
 #: templates/userpage/userindex.html:30
 msgid "Live Stats Lookup for"
-msgstr ""
+msgstr "即时统计查询"
 
 #: templates/userpage/userindex.html:31
 msgid "The First Descendant"
-msgstr ""
+msgstr "第一繼承者"
 
 #: templates/userpage/userindex.html:32
 msgid "Now on the Web and Discord"
-msgstr ""
+msgstr "现在在网站和 "Discord" 上"
 
 #: templates/userpage/userindex.html:47
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
